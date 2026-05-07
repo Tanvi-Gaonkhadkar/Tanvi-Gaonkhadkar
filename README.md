@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tanvi 👋
 
-<!--
-**Tanvi-Gaonkhadkar/Tanvi-Gaonkhadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Information Technology student passionate about Full Stack Development, Backend Engineering, and AI-powered applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: Java, Python, C++
+- Full Stack: React, Node.js, Express.js, FastAPI
+- Databases: MongoDB, MySQL
+- CS Fundamentals: DSA, DBMS, OS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Newsroom AI Co-Writer
+AI-powered editorial platform for bias detection and neutral content rewriting using React and FastAPI.
+
+### WONDERLAND
+Full-stack rental property platform with authentication, CRUD operations, and REST APIs.
+
+### Smart Surveillance AI System
+Computer vision system using YOLOv8 and adaptive image preprocessing for low-light object detection.
+
+## DSA
+- 259+ LeetCode Problems Solved
+- LeetCode Contest Rating: 1450
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tanvi-gaonkhadkar-452549312/
+- LeetCode: https://leetcode.com/u/tanvi_gaonkhadkar/
+
