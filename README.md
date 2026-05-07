@@ -5,6 +5,7 @@ Final-year Information Technology student passionate about Full Stack Developmen
 ## Tech Stack
 - Languages: Java, Python, C++
 - Full Stack: React, Node.js, Express.js, FastAPI
+- AI/ML: Machine Learning, Computer Vision, OpenCV, YOLOv8, Scikit-learn, Data Preprocessing
 - Databases: MongoDB, MySQL
 - CS Fundamentals: DSA, DBMS, OS
 
