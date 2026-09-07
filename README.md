@@ -10,14 +10,14 @@ Final-year Information Technology student passionate about Full Stack Developmen
 - CS Fundamentals: DSA, DBMS, OS
 
 ## Featured Projects
+### Smart Surveillance AI System
+Computer vision system using YOLOv8 and adaptive image preprocessing for low-light object detection.
+
 ### Newsroom AI Co-Writer
 AI-powered editorial platform for bias detection and neutral content rewriting using React and FastAPI.
 
 ### WONDERLAND
 Full-stack rental property platform with authentication, CRUD operations, and REST APIs.
-
-### Smart Surveillance AI System
-Computer vision system using YOLOv8 and adaptive image preprocessing for low-light object detection.
 
 ## DSA
 - 259+ LeetCode Problems Solved
